@@ -19,7 +19,7 @@ export default function Projects() {
             {
                 image: websiteImg3,
                 description: 'Online Code Editor & Compiler',
-                link: 'https://github.com/Necro-sword/OnlineCompiler'
+                link: 'https://online-compiler-gk.vercel.app/'
             }
         ]
     }
