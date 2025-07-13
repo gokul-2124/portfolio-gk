@@ -9,7 +9,7 @@ export default function Projects() {
             {
                 image: websiteImg1,
                 description: 'A Generative Website. Built with MERN Stack.',
-                link: 'https://github.com/Necro-sword/aimg'
+                link: 'https://aimg-pi.vercel.app/'
             },
             {
                 image: websiteImg2,
